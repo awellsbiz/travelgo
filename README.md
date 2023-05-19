@@ -1,5 +1,5 @@
 # TRAVEL GO
-
+![](/images/TG%20logo.png)
 Travel Go is a mobile first travel planning platform that assit users in planning their trips. Built with DJango and React  
 
 # USER STORIES
