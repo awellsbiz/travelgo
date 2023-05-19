@@ -23,15 +23,15 @@ The landing page will be an infinite scroll page that gives user information abo
 - Implement API endpoints using Django's REST Framework to handle CRUD operations for different entities.
 - Implement a responsive UI design specific for mobile first
 - Display user profile with travel itineraries based on the user's inputs.
-- Implement authentication and authorization using Django's built-in authentication system.
+- Integrate third-party APIs weather or google places api
 
 # STREATCH GOALS
 - User CRUD
 - Allow user to add photo to profile.
 - Allow user to drag and place places to visit inside itenerary. 
-- Integrate third-party APIs weather or google places api
 - incorportate Map with numbered saved places to visit
 - incorparate AI for suggestions on best places to eat, excursions, hotels, and experiences. 
+- Implement authentication and authorization using Django's built-in authentication system.
 
 # SPRINTS
 Day 1 & 2: Setup configure backend (Django rest framework and JWT with PostgreSQL), build out user auth template, & test end points.
