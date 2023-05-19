@@ -1,0 +1,8 @@
+Friday & Sat - Solidifying plan and Idea, get Django and react linked up(revist lesson) include models and postgres
+
+Sun-focus on the back end. creating modles and testing out the routes  begin pinging backend with forms to store
+Mon- implement the necesssary components for sign up, log in, profile, itenerary form and creation on front end & test cruding itenerary
+Tue- focus on css + streatch goald
+Wed- test and tinker clean up code and catch up
+Thur- buffer for finising/ deploy
+Fri- graduation
