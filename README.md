@@ -15,6 +15,13 @@
 - As a user I want to be able to creat a secure account to save my planned trips. 
 - As a user I want to create a new itenerary with the ability to input specific details about my up comming trip. 
 
+# ERD
+![ERD](/images/ERD.png)
+# ROUTING CHART
+![Routing-Chart](/images/Routing%20chart.png)
+
+# WIREFRAMS
+![WireFrame](/images/wireframe.png)
 # MVP
 
 - Set up a Django project and configure the necessary settings.
