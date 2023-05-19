@@ -3,7 +3,7 @@
 Travel Go is a mobile first travel planning platform that assit users in planning their trips. Built with DJango and React  
 
 # USER STORIES
-- the landing page will be an infinite scroll page that gives user information about the app's features. The user will have the opportuinty to log in or sign up.
+The landing page will be an infinite scroll page that gives user information about the app's features. The user will have the opportuinty to log in or sign up.
 - As a user I want to be able to create a secure account to save my planned trips. 
 - As a user I want to create a new itenerary with the ability to input specific details about my up comming trip. 
 
@@ -26,9 +26,20 @@ Travel Go is a mobile first travel planning platform that assit users in plannin
 
 # STREATCH GOALS
 - User CRUD
-- Integrate third-party APIs weather or google places api
-- incorportate Maps with numbered saved places to visit
 - Allow user to add photo to profile.
-- Allow for text reminders.
+- Allow user to drag and place places to visit inside itenerary. 
+- Integrate third-party APIs weather or google places api
+- incorportate Map with numbered saved places to visit
 - incorparate AI for suggestions on best places to eat, excursions, hotels, and experiences. 
+
+# SPRINTS
+Day 1 & 2: Setup configure backend (Django rest framework and JWT with PostgreSQL), build out user auth template, & test end points.
+
+Day 3 & 4: Set up react front end (create components for registration log in/ out, profile, and itenerary creation), handle JWT tokens, ping the backend to post and get data
+
+Day 5: work on css, make site responsive(mobile first), and test all functionality. MVP deadline. 
+
+Day 6: Buffer day to catch up and clean up. Add streatch goal or two. 
+
+day 7: deploy
 

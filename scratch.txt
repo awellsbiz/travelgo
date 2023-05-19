@@ -6,3 +6,14 @@ Tue- focus on css + streatch goald
 Wed- test and tinker clean up code and catch up
 Thur- buffer for finising/ deploy
 Fri- graduation
+
+Day 1 & 2: Setup configure backend (Django rest framework and JWT with PostgreSQL), build out user auth template, & test end points.
+
+Day 3 & 4: Set up react front end (create components for registration log in/ out, profile, and itenerary creation), handle JWT tokens, ping the backend to post and get data
+
+Day 5: work on css, make site responsive(mobile first), and test all functionality. MVP deadline. 
+
+Day 6: Buffer day to catch up and clean up. Add streatch goal or two. 
+
+day 7: deploy
+
