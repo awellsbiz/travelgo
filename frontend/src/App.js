@@ -1,4 +1,9 @@
 import {useState, useEffect} from "react";
+import React from "react"
+import {BrowserRouter as Router, Routes, Route} from "react-router-dom";
+import Headers from "./components/partials/Headers";
+import Home from "./components/pages/Home";
+import About from "./components/pages/About";
 import './App.css';
 import axios from "axios";
 
@@ -16,13 +21,17 @@ function App() {
     .catch((err) => console.log(err))
   }, [])
 
-
+console.log(Home)
   return (
-    <div>
-      <h1>Here I am</h1>
-      <p> </p>
+    <Router>
+      <Headers />
+       
+      <Routes>
+        <Route path="/" element={<Home />} />
+        <Route path="/About" element={<About />} />
+      </Routes>
       
-    </div>
+    </Router>
   );
 }
 

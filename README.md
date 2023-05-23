@@ -19,7 +19,7 @@ The landing page will be an infinite scroll page that gives user information abo
 # MVP
 
 - Set up a Django project and configure the necessary settings.
-- Create Django models to represent users and itineraries 
+- Create Django models to represent itineraries 
 - Implement API endpoints using Django's REST Framework to handle CRUD operations for different entities.
 - Implement a responsive UI design specific for mobile first
 - Display user profile with travel itineraries based on the user's inputs.

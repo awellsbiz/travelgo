@@ -25,4 +25,5 @@ router.register(r'trips', views.TripView, 'trip')
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('api/', include(router.urls)),
+    path('api/search_nearby/', views.search_nearby, name='search_nearby'),
 ]
